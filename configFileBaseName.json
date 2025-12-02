@@ -1,9 +1,9 @@
 {
   "theme": {
-    "background": "white",
+    "background": "#FFF888",
     "base-mode": "dark",
     "base-shape": "pill",
-    "base-density": "standard",
+    "base-density": "high",
     "color": "gaasGaming"
   }
 }
