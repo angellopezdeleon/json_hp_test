@@ -2,7 +2,7 @@
   "description": "Custom theme for HPX",
   "contact": "someone@hp.com",
   "theme": {
-    "background": "linear-gradient(to right, #FF0100, #FFB300)",
+    "background": "#FFB300",
     "hp-logo": "hpLogo",
     "base-mode": "light",
     "color": {
