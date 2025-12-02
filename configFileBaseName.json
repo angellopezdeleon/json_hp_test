@@ -8,13 +8,13 @@
     "color": {
       "light": {
         "foreground": {
-          "default": "#292a35",
+          "default": "#1A1A1A",
           "medium": "#525365",
           "light": "#828398",
           "disabled": "#b5b7cb"
         },
         "background": {
-          "default": "#1A1A1A",
+          "default": "#ffffff",
           "container": {
             "default": "#E0E0E0",
             "hover": "#D6D6D6",
@@ -45,9 +45,9 @@
         },
         "spotlight": {
           "foreground": {
-            "default": "#292a35",
-            "hover": "#292a35",
-            "active": "#292a35"
+            "default": "#1A1A1A",
+            "hover": "#1A1A1A",
+            "active": "#1A1A1A"
           },
           "base": {
             "default": "#ffffff",
@@ -55,7 +55,7 @@
             "active": "rgba(255, 255, 255, 1.6)"
           },
           "background": {
-            "default": "#292a35",
+            "default": "#1A1A1A",
             "hover": "rgba(255, 255, 255, 1.1)",
             "active": "rgba(255, 255, 255, 1.2)"
           }
@@ -80,9 +80,9 @@
         },
         "neutral": {
           "foreground": {
-            "default": "#292a35",
-            "hover": "#292a35",
-            "active": "#292a35"
+            "default": "#1A1A1A",
+            "hover": "#1A1A1A",
+            "active": "#1A1A1A"
           },
           "base": {
             "default": "#d1d2e4",
@@ -117,9 +117,9 @@
         },
         "caution": {
           "foreground": {
-            "default": "#292a35",
-            "hover": "#292a35",
-            "active": "#292a35"
+            "default": "#1A1A1A",
+            "hover": "#1A1A1A",
+            "active": "#1A1A1A"
           },
           "base": {
             "default": "#ffe137",
@@ -134,9 +134,9 @@
         },
         "warning": {
           "foreground": {
-            "default": "#292a35",
-            "hover": "#292a35",
-            "active": "#292a35"
+            "default": "#1A1A1A",
+            "hover": "#1A1A1A",
+            "active": "#1A1A1A"
           },
           "base": {
             "default": "#ff8900",
