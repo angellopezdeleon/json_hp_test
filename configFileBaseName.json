@@ -1,97 +1,97 @@
 {
   "theme": {
-    "background": "linear-gradient(to right, #FF0100, #FFB300)",
+    "background": deepOrange,
     "base-mode": "dark",
     "base-shape": "sharp",
     "base-density": "standard",
     "color": {
-      "papaya": {
+      "gaasGaming": {
         "foreground": {
-          "default": "linear-gradient(to right, #FF0100, #FFB300)",
-          "medium": "linear-gradient(to right, #FF0100, #FFB300)",
-          "light": "linear-gradient(to right, #FF0100, #FFB300)",
-          "disabled": "linear-gradient(to right, #FF0100, #FFB300)"
+          "default": deepOrange,
+          "medium": deepOrange,
+          "light": deepOrange,
+          "disabled": deepOrange
         },
         "background": {
-          "default": "linear-gradient(to right, #FF0100, #FFB300)",
-          "medium": "linear-gradient(to right, #FF0100, #FFB300)",
+          "default": deepOrange,
+          "medium": deepOrange,
           "container": {
-            "default": "linear-gradient(to right, #FF0100, #FFB300)",
-            "hover": "linear-gradient(to right, #FF0100, #FFB300)",
-            "active": "linear-gradient(to right, #FF0100, #FFB300)"
+            "default": deepOrange,
+            "hover": deepOrange,
+            "active": deepOrange
           },
-          "disabled": "linear-gradient(to right, #FF0100, #FFB300)"
+          "disabled": deepOrange
         },
         "primary": {
           "base": {
-            "default": "linear-gradient(to right, #FF0100, #FFB300)",
-            "hover": "linear-gradient(to right, #FF0100, #FFB300)",
-            "active": "linear-gradient(to right, #FF0100, #FFB300)"
+            "default": deepOrange,
+            "hover": deepOrange,
+            "active": deepOrange
           },
           "background": {
-            "default": "linear-gradient(to right, #FF0100, #FFB300)",
-            "hover": "linear-gradient(to right, #FF0100, #FFB300)",
-            "active": "linear-gradient(to right, #FF0100, #FFB300)"
+            "default": deepOrange,
+            "hover": deepOrange,
+            "active": deepOrange
           },
           "foreground": {
-            "default": "linear-gradient(to right, #FF0100, #FFB300)",
-            "active": "linear-gradient(to right, #FF0100, #FFB300)",
-            "hover": "linear-gradient(to right, #FF0100, #FFB300)"
+            "default": deepOrange,
+            "active": deepOrange,
+            "hover": deepOrange
           }
         },
         "positive": {
           "base": {
-            "active": "linear-gradient(to right, #FF0100, #FFB300)",
-            "default": "linear-gradient(to right, #FF0100, #FFB300)",
-            "hover": "linear-gradient(to right, #FF0100, #FFB300)"
+            "active": deepOrange,
+            "default": deepOrange,
+            "hover": deepOrange
           },
           "background": {
-            "default": "linear-gradient(to right, #FF0100, #FFB300)",
-            "hover": "linear-gradient(to right, #FF0100, #FFB300)",
-            "active": "linear-gradient(to right, #FF0100, #FFB300)"
+            "default": deepOrange,
+            "hover": deepOrange,
+            "active": deepOrange
           },
           "foreground": {
-            "default": "linear-gradient(to right, #FF0100, #FFB300)",
-            "active": "linear-gradient(to right, #FF0100, #FFB300)",
-            "hover": "linear-gradient(to right, #FF0100, #FFB300)"
+            "default": deepOrange,
+            "active": deepOrange,
+            "hover": deepOrange
           }
         },
         "negative": {
           "base": {
-            "active": "linear-gradient(to right, #FF0100, #FFB300)",
-            "default": "linear-gradient(to right, #FF0100, #FFB300)",
-            "hover": "linear-gradient(to right, #FF0100, #FFB300)"
+            "active": deepOrange,
+            "default": deepOrange,
+            "hover": deepOrange
           },
           "background": {
-            "active": "linear-gradient(to right, #FF0100, #FFB300)",
-            "default": "linear-gradient(to right, #FF0100, #FFB300)",
-            "hover": "linear-gradient(to right, #FF0100, #FFB300)"
+            "active": deepOrange,
+            "default": deepOrange,
+            "hover": deepOrange
           },
           "foreground": {
-            "default": "linear-gradient(to right, #FF0100, #FFB300)",
-            "active": "linear-gradient(to right, #FF0100, #FFB300)",
-            "hover": "linear-gradient(to right, #FF0100, #FFB300)"
+            "default": deepOrange,
+            "active": deepOrange,
+            "hover": deepOrange
           }
         },
         "warning": {
           "base": {
-            "active": "linear-gradient(to right, #FF0100, #FFB300)",
-            "default": "linear-gradient(to right, #FF0100, #FFB300)",
-            "hover": "linear-gradient(to right, #FF0100, #FFB300)"
+            "active": deepOrange,
+            "default": deepOrange,
+            "hover": deepOrange
           },
           "background": {
-            "default": "linear-gradient(to right, #FF0100, #FFB300)",
-            "hover": "linear-gradient(to right, #FF0100, #FFB300)",
-            "active": "linear-gradient(to right, #FF0100, #FFB300)"
+            "default": deepOrange,
+            "hover": deepOrange,
+            "active": deepOrange
           },
           "foreground": {
-            "default": "linear-gradient(to right, #FF0100, #FFB300)",
-            "active": "linear-gradient(to right, #FF0100, #FFB300)",
-            "hover": "linear-gradient(to right, #FF0100, #FFB300)"
+            "default": deepOrange,
+            "active": deepOrange,
+            "hover": deepOrange
           }
         },
         "stroke": {
-          "default": "linear-gradient(to right, #FF0100, #FFB300)"
+          "default": deepOrange
         }
       }
     }
