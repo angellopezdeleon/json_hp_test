@@ -14,7 +14,7 @@
           "disabled": "#b5b7cb"
         },
         "background": {
-          "default": "#ffffff",
+          "default": "#1A1A1A",
           "container": {
             "default": "#E0E0E0",
             "hover": "#D6D6D6",
