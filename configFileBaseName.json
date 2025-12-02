@@ -1,97 +1,97 @@
 {
   "theme": {
-    "background": deepOrange,
+    "background": "#FF8000",
     "base-mode": "dark",
     "base-shape": "sharp",
     "base-density": "standard",
     "color": {
       "gaasGaming": {
         "foreground": {
-          "default": deepOrange,
-          "medium": deepOrange,
-          "light": deepOrange,
-          "disabled": deepOrange
+          "default": "#FF8000",
+          "medium": "#FF8000",
+          "light": "#FF8000",
+          "disabled": "#FF8000"
         },
         "background": {
-          "default": deepOrange,
-          "medium": deepOrange,
+          "default": "#FF8000",
+          "medium": "#FF8000",
           "container": {
-            "default": deepOrange,
-            "hover": deepOrange,
-            "active": deepOrange
+            "default": "#FF8000",
+            "hover": "#FF8000",
+            "active": "#FF8000"
           },
-          "disabled": deepOrange
+          "disabled": "#FF8000"
         },
         "primary": {
           "base": {
-            "default": deepOrange,
-            "hover": deepOrange,
-            "active": deepOrange
+            "default": "#FF8000",
+            "hover": "#FF8000",
+            "active": "#FF8000"
           },
           "background": {
-            "default": deepOrange,
-            "hover": deepOrange,
-            "active": deepOrange
+            "default": "#FF8000",
+            "hover": "#FF8000",
+            "active": "#FF8000"
           },
           "foreground": {
-            "default": deepOrange,
-            "active": deepOrange,
-            "hover": deepOrange
+            "default": "#FF8000",
+            "active": "#FF8000",
+            "hover": "#FF8000"
           }
         },
         "positive": {
           "base": {
-            "active": deepOrange,
-            "default": deepOrange,
-            "hover": deepOrange
+            "active": "#FF8000",
+            "default": "#FF8000",
+            "hover": "#FF8000"
           },
           "background": {
-            "default": deepOrange,
-            "hover": deepOrange,
-            "active": deepOrange
+            "default": "#FF8000",
+            "hover": "#FF8000",
+            "active": "#FF8000"
           },
           "foreground": {
-            "default": deepOrange,
-            "active": deepOrange,
-            "hover": deepOrange
+            "default": "#FF8000",
+            "active": "#FF8000",
+            "hover": "#FF8000"
           }
         },
         "negative": {
           "base": {
-            "active": deepOrange,
-            "default": deepOrange,
-            "hover": deepOrange
+            "active": "#FF8000",
+            "default": "#FF8000",
+            "hover": "#FF8000"
           },
           "background": {
-            "active": deepOrange,
-            "default": deepOrange,
-            "hover": deepOrange
+            "active": "#FF8000",
+            "default": "#FF8000",
+            "hover": "#FF8000"
           },
           "foreground": {
-            "default": deepOrange,
-            "active": deepOrange,
-            "hover": deepOrange
+            "default": "#FF8000",
+            "active": "#FF8000",
+            "hover": "#FF8000"
           }
         },
         "warning": {
           "base": {
-            "active": deepOrange,
-            "default": deepOrange,
-            "hover": deepOrange
+            "active": "#FF8000",
+            "default": "#FF8000",
+            "hover": "#FF8000"
           },
           "background": {
-            "default": deepOrange,
-            "hover": deepOrange,
-            "active": deepOrange
+            "default": "#FF8000",
+            "hover": "#FF8000",
+            "active": "#FF8000"
           },
           "foreground": {
-            "default": deepOrange,
-            "active": deepOrange,
-            "hover": deepOrange
+            "default": "#FF8000",
+            "active": "#FF8000",
+            "hover": "#FF8000"
           }
         },
         "stroke": {
-          "default": deepOrange
+          "default": "#FF8000"
         }
       }
     }
