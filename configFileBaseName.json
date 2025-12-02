@@ -1,9 +1,238 @@
 {
+  "description": "Custom theme for HPX",
+  "contact": "someone@hp.com",
   "theme": {
-    "background": "#FFF888",
-    "base-mode": "dark",
-    "base-shape": "pill",
-    "base-density": "high",
-    "color": "gaasGaming"
+    "background": "#FF0000",
+    "hp-logo": "hpLogo",
+    "base-mode": "light",
+    "color": {
+      "light": {
+        "foreground": {
+          "default": "#292a35",
+          "medium": "#525365",
+          "light": "#828398",
+          "disabled": "#b5b7cb"
+        },
+        "background": {
+          "default": "#ffffff",
+          "container": {
+            "default": "#E0E0E0",
+            "hover": "#D6D6D6",
+            "active": "#CCCCCC"
+          },
+          "disabled": "#edeefe",
+          "main": "#e0e1ee"
+        },
+        "stroke": {
+          "default": "#d1d2e4",
+          "medium": "#525365",
+          "light": "#edeefe",
+          "focus": "#4759f5",
+          "highcontrast": {
+            "default": "rgba(255, 255, 255, 1)",
+            "hover": "rgba(255, 255, 255, 1)",
+            "disabled": "rgba(255, 255, 255, 1)"
+          }
+        },
+        "effects": {
+          "glasswall": "rgba(130, 131, 152, 0.6)",
+          "dropshadow": "rgba(0, 0, 0, 0.4)",
+          "highlight": {
+            "default": "rgba(129, 144, 255, 0.1)",
+            "hover": "rgba(167, 180, 255, 0.3)",
+            "active": "rgba(196, 202, 255, 0.6)"
+          }
+        },
+        "spotlight": {
+          "foreground": {
+            "default": "#292a35",
+            "hover": "#292a35",
+            "active": "#292a35"
+          },
+          "base": {
+            "default": "#ffffff",
+            "hover": "rgba(255, 255, 255, 1.8)",
+            "active": "rgba(255, 255, 255, 1.6)"
+          },
+          "background": {
+            "default": "#292a35",
+            "hover": "rgba(255, 255, 255, 1.1)",
+            "active": "rgba(255, 255, 255, 1.2)"
+          }
+        },
+        "primary": {
+          "foreground": {
+            "default": "#ffffff",
+            "hover": "#ffffff",
+            "active": "#ffffff",
+            "link": "#4759f5"
+          },
+          "base": {
+            "default": "#4759f5",
+            "hover": "#3543c0",
+            "active": "#2c3798"
+          },
+          "background": {
+            "default": "#f5f6ff",
+            "hover": "#edf0ff",
+            "active": "#e5eaff"
+          }
+        },
+        "neutral": {
+          "foreground": {
+            "default": "#292a35",
+            "hover": "#292a35",
+            "active": "#292a35"
+          },
+          "base": {
+            "default": "#d1d2e4",
+            "hover": "#b5b7cb",
+            "active": "#9b9cb1"
+          },
+          "background": {
+            "default": "#f5f6ff",
+            "hover": "#f5f6ff",
+            "active": "#edeefe",
+            "default20a": "rgba(130, 131, 152, 0.2)",
+            "hover40a": "rgba(130, 131, 152, 0.4)",
+            "active50a": "rgba(130, 131, 152, 0.5)"
+          }
+        },
+        "positive": {
+          "foreground": {
+            "default": "#ffffff",
+            "hover": "#ffffff",
+            "active": "#ffffff"
+          },
+          "base": {
+            "default": "#00834b",
+            "hover": "#006c3e",
+            "active": "#005a35"
+          },
+          "background": {
+            "default": "#d5f5e7",
+            "hover": "#ccffe8",
+            "active": "#a3ffd6"
+          }
+        },
+        "caution": {
+          "foreground": {
+            "default": "#292a35",
+            "hover": "#292a35",
+            "active": "#292a35"
+          },
+          "base": {
+            "default": "#ffe137",
+            "hover": "#f9d300",
+            "active": "#e5c300"
+          },
+          "background": {
+            "default": "#f7f2cb",
+            "hover": "#fff29e",
+            "active": "#ffe970"
+          }
+        },
+        "warning": {
+          "foreground": {
+            "default": "#292a35",
+            "hover": "#292a35",
+            "active": "#292a35"
+          },
+          "base": {
+            "default": "#ff8900",
+            "hover": "#e07200",
+            "active": "#b2600c"
+          },
+          "background": {
+            "default": "#fcebdc",
+            "hover": "#ffdbb2",
+            "active": "#ffc98c"
+          }
+        },
+        "negative": {
+          "foreground": {
+            "default": "#ffffff",
+            "hover": "#ffffff",
+            "active": "#ffffff"
+          },
+          "base": {
+            "default": "#cc2c00",
+            "hover": "#9f2301",
+            "active": "#802208"
+          },
+          "background": {
+            "default": "#faeceb",
+            "hover": "#ffdbd9",
+            "active": "#ffc1bd"
+          }
+        },
+        "help": {
+          "foreground": {
+            "default": "#ffffff",
+            "hover": "#ffffff",
+            "active": "#ffffff"
+          },
+          "base": {
+            "default": "#8c3ebf",
+            "hover": "#6f3297",
+            "active": "#5b2d7a"
+          },
+          "background": {
+            "default": "#f2ebf7",
+            "hover": "#f3e0ff",
+            "active": "#edd1ff"
+          }
+        },
+        "support": {
+          "foreground": {
+            "default": "#ffffff",
+            "hover": "#ffffff",
+            "active": "#ffffff"
+          },
+          "base": {
+            "default": "#00834b",
+            "hover": "#006c3e",
+            "active": "#005a35"
+          },
+          "background": {
+            "default": "#d5f5e7",
+            "hover": "#ccffe8",
+            "active": "#a3ffd6"
+          }
+        },
+        "blueGradation": {
+          "color1": "#4759f5",
+          "color2": "#8190ff",
+          "color3": "#c4caff",
+          "color4": "#2c3798",
+          "color5": "#ff3900",
+          "color6": "#43cc39"
+        },
+        "ascendingHues": {
+          "color1": "#4759f5",
+          "color2": "#3bb7f6",
+          "color3": "#40defa",
+          "color4": "#00d072",
+          "color5": "#8bf684",
+          "color6": "#d3fb66"
+        },
+        "descendingHues": {
+          "color1": "#4759f5",
+          "color2": "#b655f5",
+          "color3": "#e54577",
+          "color4": "#ff8900",
+          "color5": "#ffbd3b",
+          "color6": "#ffe137"
+        },
+        "sentiment": {
+          "negative": "#ff3900",
+          "warning": "#ff8900",
+          "positive": "#43cc39",
+          "info": "#4759f5",
+          "neutral": "#b5b7cb",
+          "caution": "#ffe137"
+        }
+      }
+    }
   }
 }
