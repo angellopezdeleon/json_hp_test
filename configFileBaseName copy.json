@@ -16,7 +16,7 @@
         "background": {
           "default": "#ffffff",
           "container": {
-            "default": "#1A1A1A",
+            "default": "FONDO DIALOGO",
             "hover": "#D6D6D6",
             "active": "#CCCCCC"
           },
