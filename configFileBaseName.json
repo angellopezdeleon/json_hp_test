@@ -65,10 +65,10 @@
             "default": "#ffffff",
             "hover": "#ffffff",
             "active": "#ffffff",
-            "link": "#4759f5"
+            "link": "#FFB300"
           },
           "base": {
-            "default": "#b547b0",
+            "default": "#FFB300",
             "hover": "#3543c0",
             "active": "#2c3798"
           },
