@@ -8,7 +8,7 @@
     "color": {
       "light": {
         "foreground": {
-          "default": "#ffffff",
+          "default": "#292a35",
           "medium": "#525365",
           "light": "#828398",
           "disabled": "#b5b7cb"
