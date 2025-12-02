@@ -27,7 +27,7 @@
           "default": "#d1d2e4",
           "medium": "#525365",
           "light": "#edeefe",
-          "focus": "#4759f5",
+          "focus": "linear-gradient(to right, #FF0100, #FFB300)",
           "highcontrast": {
             "default": "rgba(255, 255, 255, 1)",
             "hover": "rgba(255, 255, 255, 1)",
@@ -65,10 +65,10 @@
             "default": "#ffffff",
             "hover": "#ffffff",
             "active": "#ffffff",
-            "link": "#4759f5"
+            "link": "linear-gradient(to right, #FF0100, #FFB300)"
           },
           "base": {
-            "default": "#4759f5",
+            "default": "linear-gradient(to right, #FF0100, #FFB300)",
             "hover": "#3543c0",
             "active": "#2c3798"
           },
@@ -201,7 +201,7 @@
           }
         },
         "blueGradation": {
-          "color1": "#4759f5",
+          "color1": "linear-gradient(to right, #FF0100, #FFB300)",
           "color2": "#8190ff",
           "color3": "#c4caff",
           "color4": "#2c3798",
@@ -209,7 +209,7 @@
           "color6": "#43cc39"
         },
         "ascendingHues": {
-          "color1": "#4759f5",
+          "color1": "linear-gradient(to right, #FF0100, #FFB300)",
           "color2": "#3bb7f6",
           "color3": "#40defa",
           "color4": "#00d072",
@@ -217,7 +217,7 @@
           "color6": "#d3fb66"
         },
         "descendingHues": {
-          "color1": "#4759f5",
+          "color1": "linear-gradient(to right, #FF0100, #FFB300)",
           "color2": "#b655f5",
           "color3": "#e54577",
           "color4": "#ff8900",
@@ -228,7 +228,7 @@
           "negative": "#ff3900",
           "warning": "#ff8900",
           "positive": "#43cc39",
-          "info": "#4759f5",
+          "info": "linear-gradient(to right, #FF0100, #FFB300)",
           "neutral": "#b5b7cb",
           "caution": "#ffe137"
         }
