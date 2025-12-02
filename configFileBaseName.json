@@ -8,7 +8,7 @@
     "color": {
       "light": {
         "foreground": {
-          "default": "#1A1A1A",
+          "default": "#292a35",
           "medium": "#525365",
           "light": "#828398",
           "disabled": "#b5b7cb"
@@ -16,7 +16,7 @@
         "background": {
           "default": "#ffffff",
           "container": {
-            "default": "#E0E0E0",
+            "default": "#1A1A1A",
             "hover": "#D6D6D6",
             "active": "#CCCCCC"
           },
@@ -45,9 +45,9 @@
         },
         "spotlight": {
           "foreground": {
-            "default": "#1A1A1A",
-            "hover": "#1A1A1A",
-            "active": "#1A1A1A"
+            "default": "#292a35",
+            "hover": "#292a35",
+            "active": "#292a35"
           },
           "base": {
             "default": "#ffffff",
@@ -55,7 +55,7 @@
             "active": "rgba(255, 255, 255, 1.6)"
           },
           "background": {
-            "default": "#1A1A1A",
+            "default": "#292a35",
             "hover": "rgba(255, 255, 255, 1.1)",
             "active": "rgba(255, 255, 255, 1.2)"
           }
@@ -80,9 +80,9 @@
         },
         "neutral": {
           "foreground": {
-            "default": "#1A1A1A",
-            "hover": "#1A1A1A",
-            "active": "#1A1A1A"
+            "default": "#292a35",
+            "hover": "#292a35",
+            "active": "#292a35"
           },
           "base": {
             "default": "#d1d2e4",
@@ -117,9 +117,9 @@
         },
         "caution": {
           "foreground": {
-            "default": "#1A1A1A",
-            "hover": "#1A1A1A",
-            "active": "#1A1A1A"
+            "default": "#292a35",
+            "hover": "#292a35",
+            "active": "#292a35"
           },
           "base": {
             "default": "#ffe137",
@@ -134,9 +134,9 @@
         },
         "warning": {
           "foreground": {
-            "default": "#1A1A1A",
-            "hover": "#1A1A1A",
-            "active": "#1A1A1A"
+            "default": "#292a35",
+            "hover": "#292a35",
+            "active": "#292a35"
           },
           "base": {
             "default": "#ff8900",
