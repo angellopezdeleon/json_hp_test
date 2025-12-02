@@ -1,9 +1,99 @@
 {
   "theme": {
-    "background": "#050816",
+    "background": "linear-gradient(to right, #FF0100, #FFB300)",
     "base-mode": "dark",
     "base-shape": "sharp",
     "base-density": "standard",
-    "color": "hpx"
+    "color": {
+      "papaya": {
+        "foreground": {
+          "default": "linear-gradient(to right, #FF0100, #FFB300)",
+          "medium": "linear-gradient(to right, #FF0100, #FFB300)",
+          "light": "linear-gradient(to right, #FF0100, #FFB300)",
+          "disabled": "linear-gradient(to right, #FF0100, #FFB300)"
+        },
+        "background": {
+          "default": "linear-gradient(to right, #FF0100, #FFB300)",
+          "medium": "linear-gradient(to right, #FF0100, #FFB300)",
+          "container": {
+            "default": "linear-gradient(to right, #FF0100, #FFB300)",
+            "hover": "linear-gradient(to right, #FF0100, #FFB300)",
+            "active": "linear-gradient(to right, #FF0100, #FFB300)"
+          },
+          "disabled": "linear-gradient(to right, #FF0100, #FFB300)"
+        },
+        "primary": {
+          "base": {
+            "default": "linear-gradient(to right, #FF0100, #FFB300)",
+            "hover": "linear-gradient(to right, #FF0100, #FFB300)",
+            "active": "linear-gradient(to right, #FF0100, #FFB300)"
+          },
+          "background": {
+            "default": "linear-gradient(to right, #FF0100, #FFB300)",
+            "hover": "linear-gradient(to right, #FF0100, #FFB300)",
+            "active": "linear-gradient(to right, #FF0100, #FFB300)"
+          },
+          "foreground": {
+            "default": "linear-gradient(to right, #FF0100, #FFB300)",
+            "active": "linear-gradient(to right, #FF0100, #FFB300)",
+            "hover": "linear-gradient(to right, #FF0100, #FFB300)"
+          }
+        },
+        "positive": {
+          "base": {
+            "active": "linear-gradient(to right, #FF0100, #FFB300)",
+            "default": "linear-gradient(to right, #FF0100, #FFB300)",
+            "hover": "linear-gradient(to right, #FF0100, #FFB300)"
+          },
+          "background": {
+            "default": "linear-gradient(to right, #FF0100, #FFB300)",
+            "hover": "linear-gradient(to right, #FF0100, #FFB300)",
+            "active": "linear-gradient(to right, #FF0100, #FFB300)"
+          },
+          "foreground": {
+            "default": "linear-gradient(to right, #FF0100, #FFB300)",
+            "active": "linear-gradient(to right, #FF0100, #FFB300)",
+            "hover": "linear-gradient(to right, #FF0100, #FFB300)"
+          }
+        },
+        "negative": {
+          "base": {
+            "active": "linear-gradient(to right, #FF0100, #FFB300)",
+            "default": "linear-gradient(to right, #FF0100, #FFB300)",
+            "hover": "linear-gradient(to right, #FF0100, #FFB300)"
+          },
+          "background": {
+            "active": "linear-gradient(to right, #FF0100, #FFB300)",
+            "default": "linear-gradient(to right, #FF0100, #FFB300)",
+            "hover": "linear-gradient(to right, #FF0100, #FFB300)"
+          },
+          "foreground": {
+            "default": "linear-gradient(to right, #FF0100, #FFB300)",
+            "active": "linear-gradient(to right, #FF0100, #FFB300)",
+            "hover": "linear-gradient(to right, #FF0100, #FFB300)"
+          }
+        },
+        "warning": {
+          "base": {
+            "active": "linear-gradient(to right, #FF0100, #FFB300)",
+            "default": "linear-gradient(to right, #FF0100, #FFB300)",
+            "hover": "linear-gradient(to right, #FF0100, #FFB300)"
+          },
+          "background": {
+            "default": "linear-gradient(to right, #FF0100, #FFB300)",
+            "hover": "linear-gradient(to right, #FF0100, #FFB300)",
+            "active": "linear-gradient(to right, #FF0100, #FFB300)"
+          },
+          "foreground": {
+            "default": "linear-gradient(to right, #FF0100, #FFB300)",
+            "active": "linear-gradient(to right, #FF0100, #FFB300)",
+            "hover": "linear-gradient(to right, #FF0100, #FFB300)"
+          }
+        },
+        "stroke": {
+          "default": "linear-gradient(to right, #FF0100, #FFB300)"
+        }
+      }
+    }
   }
 }
