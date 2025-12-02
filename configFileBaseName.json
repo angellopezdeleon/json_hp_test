@@ -2,7 +2,7 @@
   "theme": {
     "background": "white",
     "base-mode": "dark",
-    "base-shape": "sharp",
+    "base-shape": "pill",
     "base-density": "standard",
     "color": "gaasGaming"
   }
