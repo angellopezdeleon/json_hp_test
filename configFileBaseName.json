@@ -68,7 +68,7 @@
             "link": "#FF0000"
           },
           "base": {
-            "default": "ff7fff",
+            "default": "#ff7fff",
             "hover": "#3543c0",
             "active": "#2c3798"
           },
