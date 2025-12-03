@@ -68,17 +68,7 @@
             "link": "#FF0000"
           },
           "base": {
-            "default": {
-              "fallback": "#FF0000",
-              "gradient": {
-                "type": "linear",
-                "angle": "90deg",
-                "stops": [
-                  { "color": "#FF0000", "position": "0%" },
-                  { "color": "#FFFF00", "position": "100%" }
-                ]
-              }
-            },
+            "default": ["#FF0000","#FFFF00"],
             "hover": "#FF0000",
             "active": "#2c3798"
           },
