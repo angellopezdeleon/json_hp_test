@@ -68,7 +68,7 @@
             "link": "#FF0000"
           },
           "base": {
-            "default": "#FF8000; background-image: linear-gradient(90deg, #FF0000, #FFFF00)",
+            "default": "#ffffff; background-color: linear-gradient(90deg, #FF0000, #FFFF00)",
             "hover": "#3543c0",
             "active": "#2c3798"
           },
