@@ -65,15 +65,15 @@
             "default": "#ffffff",
             "hover": "#ffffff",
             "active": "#ffffff",
-            "link": "#ffffff"
+            "link": "#FF0000"
           },
           "base": {
-            "default": "#292a35",
+            "default": "linear-gradient(90deg, #FF0000 0%, #FFFF00 100%)",
             "hover": "#3543c0",
             "active": "#2c3798"
           },
           "background": {
-            "default": "linear-gradient(90deg, #FF0000 0%, #FFFF00 100%)",
+            "default": "#f5f6ff",
             "hover": "#edf0ff",
             "active": "#e5eaff"
           }
