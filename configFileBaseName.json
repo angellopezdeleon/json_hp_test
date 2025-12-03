@@ -68,12 +68,12 @@
             "link": "#ffffff"
           },
           "base": {
-            "default": ["linear-gradient(90deg, #FF0000 0%, #FFFF00 100%)"],
+            "default": "#292a35",
             "hover": "#3543c0",
             "active": "#2c3798"
           },
           "background": {
-            "default": "#f5f6ff",
+            "default": "linear-gradient(90deg, #FF0000 0%, #FFFF00 100%)",
             "hover": "#edf0ff",
             "active": "#e5eaff"
           }
