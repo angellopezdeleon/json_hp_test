@@ -68,8 +68,8 @@
             "link": "#FF0000"
           },
           "base": {
-            "default": ["#FF0000","#FFFF00"],
-            "hover": "#FF0000",
+            "default": ["linear-gradient(90deg, #FF0000 0%, #FFFF00 100%)"],
+            "hover": "#3543c0",
             "active": "#2c3798"
           },
           "background": {
