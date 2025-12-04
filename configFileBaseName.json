@@ -2,7 +2,7 @@
   "description": "Custom theme for HPX",
   "contact": "someone@hp.com",
   "theme": {
-    "background": "#FFB300",
+    "background": "#ffffff",
     "hp-logo": "hpLogo",
     "base-mode": "light",
     "color": {
@@ -65,12 +65,12 @@
             "default": "#ffffff",
             "hover": "#ffffff",
             "active": "#ffffff",
-            "link": "#FF0000"
+            "link": "#ffffff"
           },
           "base": {
-            "default": "#4759f5 } #user-name-form-submit { background: linear-gradient(90deg, #FF0000, #FFFF00) !important; color: #fff",
-            "hover": "#3543c0",
-            "active": "#2c3798"
+            "default": "#ffffff } #user-name-form-submit { background: linear-gradient(90deg, #FF0000, #FFFF00) !important; color: #fff",
+            "hover": "",
+            "active": ""
           },
           "background": {
             "default": "#f5f6ff",
