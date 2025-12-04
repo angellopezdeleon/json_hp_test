@@ -73,9 +73,9 @@
             "active": ""
           },
           "background": {
-            "default": "#f5f6ff",
-            "hover": "#edf0ff",
-            "active": "#e5eaff"
+            "default": "#ffffff",
+            "hover": "#ffffff",
+            "active": "#ffffff"
           }
         },
         "neutral": {
