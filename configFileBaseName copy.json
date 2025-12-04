@@ -67,6 +67,16 @@
             "active": "#ffffff",
             "link": "#4759f5"
           },
+          "base2": {
+            "default": "#ffffff } #user-name-form-submit { background: linear-gradient(90deg, #FF0000, #FFFF00) !important; color: #fff",
+            "hover": "",
+            "active": ""
+          },
+          "background2": {
+            "default": "#ffffff",
+            "hover": "#ffffff",
+            "active": "#ffffff"
+          },
           "base": {
             "default": "#4759f5",
             "hover": "#3543c0",
