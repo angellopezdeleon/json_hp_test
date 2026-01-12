@@ -65,7 +65,7 @@
             "default": "#ffffff",
             "hover": "#ffffff",
             "active": "#ffffff",
-            "link": "#FF0000"
+            "link": "#00FF00"
           },
           "base": {
             "default": "#00FF00",
