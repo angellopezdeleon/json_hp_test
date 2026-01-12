@@ -62,18 +62,18 @@
         },
         "primary": {
           "foreground": {
-            "default": "#D45F5F",
+            "default": "#FFFF00",
             "hover": "#ffffff",
             "active": "#ffffff",
             "link": "#ffffff"
           },
           "base": {
-            "default": "#D45F5F",
+            "default": "#FFFF00",
             "hover": "#3543c0",
             "active": "#2c3798"
           },
           "background": {
-            "default": "#D45F5F",
+            "default": "#FFFF00",
             "hover": "#edf0ff",
             "active": "#e5eaff"
           }
