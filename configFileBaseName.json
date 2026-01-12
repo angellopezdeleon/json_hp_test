@@ -4,7 +4,7 @@
   "theme": {
     "background": "#FFB300",
     "hp-logo": "hpLogo",
-    "base-mode": "light",
+    "base-mode": "dark",
     "color": {
       "light": {
         "foreground": {
