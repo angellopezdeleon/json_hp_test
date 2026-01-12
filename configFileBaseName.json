@@ -6,7 +6,7 @@
     "hp-logo": "hpLogo",
     "base-mode": "dark",
     "color": {
-      "light": {
+      "dark": {
         "foreground": {
           "default": "#ffffff",
           "medium": "#525365",
