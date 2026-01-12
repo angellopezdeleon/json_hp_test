@@ -2,21 +2,21 @@
   "description": "Custom theme for HPX",
   "contact": "someone@hp.com",
   "theme": {
-    "background": "#D6D6D6",
+    "background": "#ffffff",
     "hp-logo": "hpLogo",
     "base-mode": "light",
     "color": {
       "light": {
         "foreground": {
-          "default": "#D6D6D6",
+          "default": "#ffffff",
           "medium": "#525365",
           "light": "#828398",
           "disabled": "#b5b7cb"
         },
         "background": {
-          "default": "#D6D6D6",
+          "default": "#ffffff",
           "container": {
-            "default": "#1A1A1A",
+            "default": "#D45F5F",
             "hover": "#D6D6D6",
             "active": "#CCCCCC"
           },
@@ -62,7 +62,7 @@
         },
         "primary": {
           "foreground": {
-            "default": "#D6D6D6",
+            "default": "#ffffff",
             "hover": "#ffffff",
             "active": "#ffffff",
             "link": "#ffffff"
@@ -73,7 +73,7 @@
             "active": "#2c3798"
           },
           "background": {
-            "default": "#D6D6D6",
+            "default": "#f5f6ff",
             "hover": "#edf0ff",
             "active": "#e5eaff"
           }
